@@ -10,7 +10,8 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### 2a. Analysis of Outcomes Based on Launch Date
 
-<img src="https://github.com/leilacf/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true'>
+<img src="https://github.com/leilacf/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png">
+
           
 
 ### 2b. Analysis of Outcomes Based on Goals
