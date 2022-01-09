@@ -2,19 +2,19 @@
 Performing analysis on Kickstarter data to uncover trends
 # Kickstarting with Excel
 
-## Overview of Project
+## 1a. Overview of Project
 
-### Purpose
+### 1b. Purpose
 
-## Analysis and Challenges
+## 2a. Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+### 2b. Analysis of Outcomes Based on Launch Date
 
-### Analysis of Outcomes Based on Goals
+### 2c. Analysis of Outcomes Based on Goals
 
-### Challenges and Difficulties Encountered
+### 3. Challenges and Difficulties Encountered
 
-## Results
+## 4. Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
