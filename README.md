@@ -3,7 +3,7 @@ Performing analysis on Kickstarter data to uncover trends
 # Kickstarting with Excel
 
 ## 1. Overview of Project
-    For this project, Louise required an analysis and visualization of varying campaigns in relation to their launch dates and funding goals, to understand the reasoning behind those which succeeded and failed. 
+   ### For this project, Louise required an analysis and visualization of varying campaigns in relation to their launch dates and funding goals, to understand the reasoning behind those which succeeded and failed. 
 
 ### 1a. Purpose
 
