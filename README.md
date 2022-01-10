@@ -25,11 +25,12 @@ Performing analysis on Kickstarter data to uncover trends
 
    In this analysis, I was not faced with any particular challenges but I can highlight a few instances that I believe can result to be difficult. 
    - The "deadline" and "launch" dates contained Unix timestamps rather than dates in the standard format, when attempting to convert this, if one accidentally alters the original timestamp, then the conversion will be incorrect
-   - In creating the "Outcomes based on goals" chart and graph, the formula and input of the data was quite tedious and easy to mistype or copy a wrong number. Therefore, I can see how this could become a difficult tasks rapidly if not enough attention is paid to detail
+   - In creating the "Outcomes based on goals" chart and graph, the formula and input of the data was quite tedious and easy to mistype or copy a wrong number. Therefore, I can see how this could become a difficult task rapidly if not enough attention is paid to detail
 
 ## 3. Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+  - dj
 
 - What can you conclude about the Outcomes based on Goals?
 
